@@ -31,7 +31,7 @@ class Employee {
 }
 
 
-let long = new Employee("Long", 30, "45 Trần Nguyên Đán", 5000000);
+let long = new Employee("Long", 30, "177 Điện Biên Phủ", 5000000);
 let buu = new Employee("Buu", 20, "109 Kim Long", 4500000);
 let nam = new Employee("Nam", 25, "H15 Bầu Vá", 3000000);
 
